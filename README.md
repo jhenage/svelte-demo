@@ -1,18 +1,19 @@
-Instructions coming soon.
+# RedSky Coding Challenge
 
+### Install the project
 ```sh
 git clone https://github.com/jhenage/svelte-demo.git
 ```
 
-first terminal:
+### Install and run the backend:
 ```sh
 cd backend
 pnpm i
 pnpm run dev
 ```
 
+### Install and run the frontend:
 ```sh
-second terminal:
 cd frontend
 pnpm i
 pnpm run dev --open
