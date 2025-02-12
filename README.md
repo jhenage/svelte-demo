@@ -1,24 +1,19 @@
 Instructions coming soon.
 
-```bash
+```sh
 git clone https://github.com/jhenage/svelte-demo.git
 ```
 
 first terminal:
-```bash
+```sh
 cd backend
 pnpm i
 pnpm run dev
 ```
 
-```bash
+```sh
 second terminal:
 cd frontend
 pnpm i
 pnpm run dev --open
 ```
-
-
-TODO:
-hook users.ts to regres.in
-improve validation on backend
